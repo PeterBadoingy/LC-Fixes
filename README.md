@@ -21,3 +21,6 @@ NavMesh Fixes - Removing ped spawning ability from areas they shouldn't be spawn
 
 
 ---------------------------------
+
+
+Map Offset:  x: -4950.0000  y: 1184.6000 z:-0.5000
