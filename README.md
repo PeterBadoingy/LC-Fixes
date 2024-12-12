@@ -9,7 +9,7 @@ badoingylcfixes.oiv - Fixes interiors + collisions - Fixes Popcycle and Zone + o
 
 
 
-Water Node Fixes — Removed all peds and vehicles from water-based nodes and made small fixes for ped crossings set as vehicle spawns(around Messina den) and density.
+Water Node Fixes — Removed all pedestrians and vehicles from water-based nodes and fixed pedestrian crossings/junctions and density around the map.
 
 
 
