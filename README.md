@@ -22,7 +22,7 @@ Fixes for Traffic Light setups where possible - Red means stop right?
 
 Individual nodes installation: - mods\update\x64\dlcpacks\ny\dlc.rpf\x64\levels\gta5\paths.rpf
 
-paths.rpf installation: - mods\update\x64\dlcpacks\ny\dlc.rpf\x64\levels\gta5\
+Full "paths.rpf" installation: - mods\update\x64\dlcpacks\ny\dlc.rpf\x64\levels\gta5\
 
 ---------------------------------
 
