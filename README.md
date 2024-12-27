@@ -2,7 +2,7 @@ Fixes for Liberty City v3 Remix:
 
 ---------------------------------
 
-badoingylcfixes.oiv - Fixes interiors + collisions - Fixes Popcycle and Zone - Fixes for Ped Spawns on props + traffic nodes/paths
+badoingylcfixes.oiv - Fixes interiors + collisions - Fixes Popcycle and Zone - Fixes for Ped Spawns on props + traffic nodes/paths (LC Centered ONLY!)
 
 
 badoingylcfixesNoPaths.oiv - Fixes interiors + collisions - Fixes Popcycle and Zone - Fixes for Ped Spawns on props only
