@@ -35,10 +35,10 @@ Install into mods\update\x64\dlcpacks\ny\dlc.rpf\x64\levels\gta5\navmeshes.rpf
 
 ---------------------------------
 
-YMap Edits:  *__* = East/Jersey/Manhat
+YMap Edits:  $$$$$ = East/Jersey/Manhat
 
 Installation directory:
-\mods\update\x64\dlcpacks\ny\dlc.rpf\x64\levels\gta5\ny\*__*\*__*_Metadata.rpf
+\mods\update\x64\dlcpacks\ny\dlc.rpf\x64\levels\gta5\ny\$$$$$\$$$$$_Metadata.rpf
 
 
 ---------------------------------
