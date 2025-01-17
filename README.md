@@ -21,7 +21,6 @@ Fixes for Traffic Density - Less vehicle buildups and traffic jams @ junctions.
 Fixes for Traffic Light setups where possible - Red means stop right?
 
 
-
 Individual nodes installation: - mods\update\x64\dlcpacks\ny\dlc.rpf\x64\levels\gta5\paths.rpf
 
 Full "paths.rpf" installation: - mods\update\x64\dlcpacks\ny\dlc.rpf\x64\levels\gta5\
@@ -33,5 +32,13 @@ THIS IS FOR THE **Centered** Map ONLY!
 NavMesh Fixes - Removing ped spawning ability from areas they shouldn't be spawning.
 
 Install into mods\update\x64\dlcpacks\ny\dlc.rpf\x64\levels\gta5\navmeshes.rpf
+
+---------------------------------
+
+YMap Edits:  ****** = East/Jersey/Manhat
+
+Installation directory:
+\mods\update\x64\dlcpacks\ny\dlc.rpf\x64\levels\gta5\ny\******\******_Metadata.rpf
+
 
 ---------------------------------
