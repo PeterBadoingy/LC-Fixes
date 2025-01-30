@@ -11,6 +11,7 @@ badoingylcfixesNoPaths.oiv - Fixes interiors + collisions - Fixes Popcycle and Z
 
 THIS IS FOR THE **Centered** Map ONLY!
 
+Added Street / Road Names
 
 Water Node Fixes - Traffic nodes/paths.
 
@@ -24,6 +25,9 @@ Fixes for Traffic Light setups where possible - Red means stop right?
 Individual nodes installation: - mods\update\x64\dlcpacks\ny\dlc.rpf\x64\levels\gta5\paths.rpf
 
 Full "paths.rpf" installation: - mods\update\x64\dlcpacks\ny\dlc.rpf\x64\levels\gta5\
+
+
+globalgxt2 installation - mods\update\x64\dlcpacks\ny\dlc.rpf\x64\data\lang\americandlc.rpf
 
 ---------------------------------
 
