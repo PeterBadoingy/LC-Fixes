@@ -27,7 +27,7 @@ Individual nodes installation: - mods\update\x64\dlcpacks\ny\dlc.rpf\x64\levels\
 Full "paths.rpf" installation: - mods\update\x64\dlcpacks\ny\dlc.rpf\x64\levels\gta5\
 
 
-globalgxt2 installation - mods\update\x64\dlcpacks\ny\dlc.rpf\x64\data\lang\americandlc.rpf
+global.gxt2 installation - mods\update\x64\dlcpacks\ny\dlc.rpf\x64\data\lang\americandlc.rpf
 
 ---------------------------------
 
